@@ -15,4 +15,3 @@ app.get('/', async (req: Request, res: Response) => {
 
 export default app;
 
-// mongodb+srv://university-admin :XxlJUmVHJQenWPwN@cluster0.97bld.mongodb.net/university-management?retryWrites=true&w=majority
