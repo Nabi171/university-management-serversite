@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\.3e4a1194587f06e9337d2e83d3888656a2fe2595-audit.json",
+    "files": [
+        {
+            "date": 1686059154393,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-06-19-error.log",
+            "hash": "dae80b820cbc37c9bb4d3391e3f4cdf9ce91d43d7916add2ff079602ab641036"
+        },
+        {
+            "date": 1686060024424,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-06-20-error.log",
+            "hash": "3d81aaa0ef53b09a1599baf8cad1d32c4e03b55d19f8bf031c3b8956d12da557"
+        },
+        {
+            "date": 1686077560497,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-07-00-error.log",
+            "hash": "5dfbe8b247774b74fe41c0a694dde5c22b3f953ab8a21f0e892ea19bd33e29a6"
+        },
+        {
+            "date": 1686079497549,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-07-01-error.log",
+            "hash": "d9528e814914cb9de2a2f661d853887beb6e83e4aebb5c8536f6754a1a641fbd"
+        },
+        {
+            "date": 1686200693438,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-08-11-error.log",
+            "hash": "848eb94a2549602f75dd20d6e1ec7f63183784379f8f4397cf5ed2f5aa9d35de"
+        },
+        {
+            "date": 1686208380069,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-08-13-error.log",
+            "hash": "e7ba6bb2bb3db659d96b62d6b983f59b57e3929a736f775041fdb021b82092ef"
+        },
+        {
+            "date": 1686325642359,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-09-21-error.log",
+            "hash": "94c7e4df838d32b018aff383aa81f792771a9b6d3491727d19c31a204ac9a8ba"
+        },
+        {
+            "date": 1686326561058,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-09-22-error.log",
+            "hash": "b97e0678d2b556821d69012cf0f7b27d73ecd9e336690f283edb066e7b8c5b55"
+        },
+        {
+            "date": 1686330049450,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-09-23-error.log",
+            "hash": "1d3b36915718584f1dc3831a5931efb79b5b2e315a12615219dd12860703c331"
+        }
+    ],
+    "hashType": "sha256"
+}

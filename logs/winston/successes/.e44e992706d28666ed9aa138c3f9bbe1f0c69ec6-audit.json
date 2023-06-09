@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\.e44e992706d28666ed9aa138c3f9bbe1f0c69ec6-audit.json",
+    "files": [
+        {
+            "date": 1685772722434,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-12-error.log",
+            "hash": "a353cc2c430886f6e6323c3323e0be6b0307f87c02c1c1916613120dd1c9224f"
+        },
+        {
+            "date": 1685788641644,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-16-error.log",
+            "hash": "c29c7458dada8b1a964f8130e21b83a365818602183c9d69427cf94899bf96f7"
+        },
+        {
+            "date": 1685793042128,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-17-error.log",
+            "hash": "8bd0903279d09943e286266aa2042e0d8b173c5033c72d9d3c3122483f3375b0"
+        },
+        {
+            "date": 1685795310839,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-18-error.log",
+            "hash": "1818f80caaf1ab2195961aa019addd85f26d96393fb99ff961ead13bee994ef2"
+        },
+        {
+            "date": 1685797794501,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-19-error.log",
+            "hash": "be03e1227f1787f6af4e87d2122911b62c35d62d19882081b46234422c2e6494"
+        },
+        {
+            "date": 1685802942060,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-20-error.log",
+            "hash": "93692c71d4969f22643552017231ab2ae589129ec659fcd2a2d020621d5a7371"
+        },
+        {
+            "date": 1685804899188,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-21-error.log",
+            "hash": "cb8abd821ec606a7ea74552fe95bbd2440029bfa35041fc60a5a76d6defc9efb"
+        },
+        {
+            "date": 1685810885143,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-22-error.log",
+            "hash": "c56fe0914bd4baaad4bedc72c003aa839b12e056fd48dd679f0af71c5959f304"
+        },
+        {
+            "date": 1685813805869,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-03-23-error.log",
+            "hash": "2367d50c7bfabefe1226ef11c1bf2b171c5ac05ca69ac64d1c84c610ab6f190b"
+        },
+        {
+            "date": 1685816311130,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-04-00-error.log",
+            "hash": "e201ad060de78a81e38c257ab6d8a85a2a5bf43a743f684075911298fcc2b532"
+        },
+        {
+            "date": 1685893719172,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-04-21-error.log",
+            "hash": "907cd8ceb18dda23f7e620031f9d7ab85af50bfe64525b4fd3431e0cc03d8986"
+        },
+        {
+            "date": 1685896166820,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-04-22-error.log",
+            "hash": "26814df46b4ded2b5a6cd2cac62d82be5e06380519f4663d369072f4f7d66e65"
+        },
+        {
+            "date": 1686041906831,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-06-14-error.log",
+            "hash": "24e3301c05257489a51801889a8b9bf3cee4d92dcf6ed0f85309b572af59fec9"
+        },
+        {
+            "date": 1686042127341,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-06-15-error.log",
+            "hash": "79e0fbebf864e85365b5984c87badbc40c7a94ae128ecd577bf2e320b08b3293"
+        }
+    ],
+    "hashType": "sha256"
+}
