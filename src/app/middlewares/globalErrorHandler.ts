@@ -62,5 +62,3 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
 };
 
 export default globalErrorHandler;
-
-// con
