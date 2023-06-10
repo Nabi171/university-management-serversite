@@ -63,10 +63,4 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
 
 export default globalErrorHandler;
 
-// const globalErrorHandler = (err, req: Request, res: Response, next: NextFunction) => {
-//   // res.status(400).json({err:err})
-//   // next()
-
-//   let statusCode = 500;
-//   let message = 'Something went wrong!'
-//   let errorMe
+// const globalErrorHandler = (err, req: Request, r
