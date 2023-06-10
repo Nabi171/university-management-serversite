@@ -74,7 +74,4 @@ export default globalErrorHandler;
 // if(err?.name==='ValidationError'){
 //   const simplifiedError=handleValidationerror(err)
 //   statusCode=simplifiedError.statusCode;
-//   message=simplifiedError.message;
-//   errorMessages=simplifiedError.errorMessages
-// }else if(error instanceof Error){
-// message=error?.messag
+//   message=simpli
