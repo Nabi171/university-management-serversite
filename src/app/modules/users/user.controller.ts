@@ -12,7 +12,7 @@ import httpStatus from 'http-status';
 //   try {
 
 //     const { user } = req.body
-//     const result = await UserServi
+//     const result = await UserSer
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
