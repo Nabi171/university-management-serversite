@@ -80,14 +80,4 @@ export default globalErrorHandler;
 // message=error?.message
 // errorMessages=error?.message?[
 //   {
-//     path:'',
-//     message:error?.message
-//   }
-// ]:[]
-// }
-
-//   res.status(statusCode).json({
-//     success: false,
-//     message,
-//     errorMessages,
-//     stack: config.en
+//     pa
