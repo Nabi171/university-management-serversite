@@ -23,4 +23,4 @@ export const UserValidation = {
 //   }),
 //   })
 
-// await createUserZodSc
+// await createUser
