@@ -20,7 +20,7 @@ import httpStatus from 'http-status';
 //     })
 //   } catch (err) {
 
-//     next(er
+//     next(e
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
