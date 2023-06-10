@@ -16,5 +16,4 @@ export const UserValidation = {
 //   body: z.object({
 //   user: z.object({
 //   role: z.string({
-//   required_error: `role is required`,
-//
+//   required_error: `role
