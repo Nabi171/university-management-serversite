@@ -22,7 +22,7 @@ import httpStatus from 'http-status';
 
 //     next(err)
 //   }
-// }
+
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
     const { user } = req.body;
