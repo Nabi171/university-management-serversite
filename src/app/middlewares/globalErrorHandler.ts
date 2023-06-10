@@ -78,6 +78,4 @@ export default globalErrorHandler;
 //   errorMessages=simplifiedError.errorMessages
 // }else if(error instanceof Error){
 // message=error?.message
-// errorMessages=error?.message?[
-//   {
-//     pa
+// errorMessages=e
