@@ -69,4 +69,4 @@ export default globalErrorHandler;
 
 //   let statusCode = 500;
 //   let message = 'Something went wrong!'
-//   let errorMessages: IGenericEr
+//   let errorMe
