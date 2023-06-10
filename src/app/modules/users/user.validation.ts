@@ -15,4 +15,4 @@ export const UserValidation = {
 // const createUserZodSchema = z.object({
 //   body: z.object({
 //   user: z.object({
-//   role: z.string({
+//   role: z.str
