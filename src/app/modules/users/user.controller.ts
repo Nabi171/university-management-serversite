@@ -9,7 +9,7 @@ import sendResponse from '../../../shared/sendResponse';
 import { IUser } from './user.interface';
 import httpStatus from 'http-status';
 // const createUser:RequestHandler = async (req, res,next) => {
-//   tr
+//
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
     const { user } = req.body;
