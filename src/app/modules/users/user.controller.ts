@@ -18,7 +18,7 @@ import httpStatus from 'http-status';
 //       message: 'user created successfully',
 //       data: result,
 //     })
-//   } cat
+//   } c
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
