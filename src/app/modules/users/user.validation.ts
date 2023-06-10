@@ -18,4 +18,4 @@ export const UserValidation = {
 //   role: z.string({
 //   required_error: `role is required`,
 //   }),
-//   password: z.string().opti
+//   password: z.string()
