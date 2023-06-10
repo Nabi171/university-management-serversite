@@ -5,7 +5,7 @@ import { UserService } from './user.service';
 import sendResponse from '../../../shared/sendResponse';
 import { IUser } from './user.interface';
 import httpStatus from 'http-status';
-// const createUser:Requ
+// const createUse
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
     const { user } = req.body;
