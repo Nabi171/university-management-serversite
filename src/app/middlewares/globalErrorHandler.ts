@@ -72,6 +72,4 @@ export default globalErrorHandler;
 //   let errorMessages: IGenericErrorMessage[] = []
 
 // if(err?.name==='ValidationError'){
-//   const simplifiedError=handleValidationerror(err)
-//   statusCode=simplifiedError.statusCode;
-//   message=simpli
+//   const sim
