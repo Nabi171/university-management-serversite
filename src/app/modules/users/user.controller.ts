@@ -14,7 +14,6 @@ import httpStatus from 'http-status';
 //     const { user } = req.body
 //     const result = await UserService.createUser(user)
 //     res.status(200).json({
-//
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
