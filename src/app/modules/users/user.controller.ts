@@ -1,5 +1,4 @@
 // import { RequestHandler } from 'express'
-// import { UserService
 import { RequestHandler } from 'express';
 import catchAsync from '../../../shared/catchAsync';
 import { NextFunction, Request, Response } from 'express';
