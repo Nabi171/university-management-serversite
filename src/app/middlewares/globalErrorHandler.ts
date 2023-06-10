@@ -90,4 +90,4 @@ export default globalErrorHandler;
 //     success: false,
 //     message,
 //     errorMessages,
-//     stack: config.env !== 'production' ? err ?.s
+//     stack: config.en
