@@ -11,7 +11,7 @@ import httpStatus from 'http-status';
 // const createUser:RequestHandler = async (req, res,next) => {
 //   try {
 
-//     const { user } = req.
+//     const { user } = re
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
