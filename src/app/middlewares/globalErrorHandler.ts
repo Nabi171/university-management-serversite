@@ -69,7 +69,4 @@ export default globalErrorHandler;
 
 //   let statusCode = 500;
 //   let message = 'Something went wrong!'
-//   let errorMessages: IGenericErrorMessage[] = []
-
-// if(err?.name==='ValidationError'){
-//   const sim
+//   let errorMessages: IGenericEr
