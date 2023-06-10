@@ -10,8 +10,6 @@ import { IUser } from './user.interface';
 import httpStatus from 'http-status';
 // const createUser:RequestHandler = async (req, res,next) => {
 //   try {
-
-//
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
     const { user } = req.body;
