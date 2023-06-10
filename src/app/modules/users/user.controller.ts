@@ -18,7 +18,7 @@ import httpStatus from 'http-status';
 //       message: 'user created successfully',
 //       data: result,
 //     })
-//   } catch (err) {
+//   } catch (err)
 
 //     ne
 
