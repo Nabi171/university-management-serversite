@@ -15,7 +15,7 @@ import httpStatus from 'http-status';
 //     const result = await UserService.createUser(user)
 //     res.status(200).json({
 //       success: true,
-//       message: 'user created successfully',
+//       message: 'user created success
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
