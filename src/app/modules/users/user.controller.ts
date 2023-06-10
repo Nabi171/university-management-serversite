@@ -12,7 +12,7 @@ import httpStatus from 'http-status';
 //   try {
 
 //     const { user } = req.body
-//     const r
+//     const
 
 const createUser: RequestHandler = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
