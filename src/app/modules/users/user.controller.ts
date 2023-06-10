@@ -1,4 +1,3 @@
-// impo
 import { RequestHandler } from 'express';
 import catchAsync from '../../../shared/catchAsync';
 import { NextFunction, Request, Response } from 'express';
