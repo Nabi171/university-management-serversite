@@ -2,7 +2,6 @@
 
 import { ErrorRequestHandler } from 'express';
 import { IGenericErrorMessage } from '../../interfaces/error';
-// import { Error } from "mongoose";
 import config from '../../config';
 import ApiError from '../../errors/ApiError';
 import handleValidationerror from '../../errors/handleValidationerror';
