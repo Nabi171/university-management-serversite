@@ -184,6 +184,36 @@
             "date": 1686482010088,
             "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-11-17-success.log",
             "hash": "f91fd307801cab239777d468dc5d8ad1cad2b8ddfee336c812149873f3cabfdd"
+        },
+        {
+            "date": 1686549321389,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-11-success.log",
+            "hash": "da9f22088cb00e86a88a57062374a2d6496ca9d399f0dc907c56b0d4ed34ac71"
+        },
+        {
+            "date": 1686549708291,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-12-success.log",
+            "hash": "c00e660dd76a54a3373ae40dc1ebae75c7eca12b70534a4dac32e67d40eae42e"
+        },
+        {
+            "date": 1686553288457,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-13-success.log",
+            "hash": "89c89a74db49f4e9308028a93d439f4b0b967f9b8962de475d16d454cfa69f20"
+        },
+        {
+            "date": 1686560678914,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-15-success.log",
+            "hash": "2a70558421f868cf2d511a77ebf1a375f9a124246c1cc395610af44742b96657"
+        },
+        {
+            "date": 1686573072185,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-18-success.log",
+            "hash": "b655b06f23dd1391a36b91d8a69800524ed71f273bdcc91eee50cba12bdb97aa"
+        },
+        {
+            "date": 1686575060665,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-19-success.log",
+            "hash": "c8699c853e51784def069660d6f86cc2c244ea7a3c31c82e51fe99c49f25ea73"
         }
     ],
     "hashType": "sha256"
