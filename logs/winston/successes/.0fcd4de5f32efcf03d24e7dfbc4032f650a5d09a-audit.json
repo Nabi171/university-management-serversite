@@ -229,6 +229,16 @@
             "date": 1686586512537,
             "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-22-success.log",
             "hash": "0aad5ef9c3b912d66b0c54c84f3886c73f097244094e6c2508e1bef203e349d6"
+        },
+        {
+            "date": 1686590522718,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-12-23-success.log",
+            "hash": "59d1852bd27c6c53207249157aa8d18c14101bfd98f4db498daba9633262f55a"
+        },
+        {
+            "date": 1686596032847,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\successes\\iso-2023-06-13-00-success.log",
+            "hash": "497e57ce6f31e39ce8abcab39cf00a8e446b44ab16683cfa3e1a2c8e1dd19f0a"
         }
     ],
     "hashType": "sha256"
