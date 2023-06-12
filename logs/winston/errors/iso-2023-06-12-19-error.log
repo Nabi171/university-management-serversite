@@ -1,1 +1,5 @@
 {Mon Jun 12 2023 19:7:49} [PH] error: Failed to connect database querySrv ETIMEOUT _mongodb._tcp.cluster0.9ocrgwd.mongodb.net
+{Mon Jun 12 2023 19:12:51} [PH] error: listen EADDRINUSE: address already in use :::5000
+{Mon Jun 12 2023 19:37:12} [PH] error: listen EADDRINUSE: address already in use :::5000
+{Mon Jun 12 2023 19:53:48} [PH] error: listen EADDRINUSE: address already in use :::5000
+{Mon Jun 12 2023 19:54:4} [PH] error: listen EADDRINUSE: address already in use :::5000

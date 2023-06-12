@@ -2,83 +2,71 @@
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:04:23.618Z'
+  timestamp: '2023-06-12T15:10:24.640Z'
 }
 {
   message: 'Application  listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:04:23.646Z'
+  timestamp: '2023-06-12T15:10:24.650Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:12:34.406Z'
+  timestamp: '2023-06-12T15:10:24.719Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T15:12:20.182Z'
 }
 {
   message: 'Application  listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:12:34.424Z'
+  timestamp: '2023-06-12T15:12:20.200Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:12:51.570Z'
+  timestamp: '2023-06-12T15:12:20.637Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:37:10.644Z'
+  timestamp: '2023-06-12T15:16:19.657Z'
 }
 {
   message: 'Application  listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:37:10.663Z'
+  timestamp: '2023-06-12T15:16:19.665Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:37:12.234Z'
+  timestamp: '2023-06-12T15:16:21.898Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:53:47.986Z'
+  timestamp: '2023-06-12T15:17:37.445Z'
 }
 {
   message: 'Application  listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:53:48.003Z'
+  timestamp: '2023-06-12T15:17:37.464Z'
 }
 {
   message: '🛢   Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-12T13:53:48.028Z'
-}
-{
-  message: '🛢   Database is connected successfully',
-  level: 'info',
-  label: 'PH',
-  timestamp: '2023-06-12T13:54:04.685Z'
-}
-{
-  message: 'Application  listening on port 5000',
-  level: 'info',
-  label: 'PH',
-  timestamp: '2023-06-12T13:54:04.701Z'
-}
-{
-  message: '🛢   Database is connected successfully',
-  level: 'info',
-  label: 'PH',
-  timestamp: '2023-06-12T13:54:04.781Z'
+  timestamp: '2023-06-12T15:17:37.754Z'
 }

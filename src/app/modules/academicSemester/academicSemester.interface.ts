@@ -18,6 +18,15 @@ export type IAcademicSemesterTitles = 'Autumn' | 'Summer' | 'Fall';
 
 export type IAcademicSemesterCodes = '01' | '02' | '03';
 
+export const academicSemesterSearchableFields = ['title', 'code', 'year'];
+
+export const academicSemesterfilterableFields = [
+  'searchTerm',
+  'title',
+  'code',
+  'year',
+];
+
 export type IAcademicSemester = {
   title: IAcademicSemesterTitles;
   year: string;

@@ -144,6 +144,21 @@
             "date": 1686575060669,
             "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-12-19-error.log",
             "hash": "ed6206b554731de62cc1eb431cdd6fb026b4d91a11cf992cbd64aeb138e1152c"
+        },
+        {
+            "date": 1686578415252,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-12-20-error.log",
+            "hash": "65dd6fd28587dd6f1f37675f72ff8745f42333958178e5de78d6af229109f7ed"
+        },
+        {
+            "date": 1686582618060,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-12-21-error.log",
+            "hash": "ec4a0e2e5ed7e59bc8f9f8edcf4ca86ed9ffba5e38e3c10a5f742bb1fb971961"
+        },
+        {
+            "date": 1686586512538,
+            "name": "C:\\Users\\User\\Desktop\\university-mangement\\logs\\winston\\errors\\iso-2023-06-12-22-error.log",
+            "hash": "4d1ae4d1b7787d5092470e3d43eb45bd13299b345bed0e5b0656646a5335ff8b"
         }
     ],
     "hashType": "sha256"
